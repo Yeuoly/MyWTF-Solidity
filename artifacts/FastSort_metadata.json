@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fastSort",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"flow.sol": "FastSort"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"flow.sol": {
+			"keccak256": "0x40268564bdb2b2887c24c561e4a8e7b6ed9108ba7f0b2c5a0ba48c5cbe797363",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1c38ca4d9f819451d30766b7a4be447d47968bee87440bbe98bd0b2392ee3bab",
+				"dweb:/ipfs/QmV2skaXL3wTi4CpuNLZSWHcvqva1EgRaYs11qVDtjEBhe"
+			]
+		}
+	},
+	"version": 1
+}
